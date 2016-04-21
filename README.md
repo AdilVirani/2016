@@ -9,5 +9,5 @@ To add your own below, just submit a [pull request](https://github.com/wwdc/2016
 <!-- Watch out for columns, you must have 6 pipes or else the gh-pages won't like it. -->
 | Name | Source | Video | Social Media | Status |
 | ---- | ------ | ----- | ------------ | ------ |
-|Adil Virani|m|p|[Twitter](http://twiter.com/TSM_Haiyaku)|Submitted|
+|[Adil Virani](http://github.com/AdilVirani)|m|p|[Twitter](http://twiter.com/TSM_Haiyaku)|Submitted|
 <!-- Don't remove the newline -->
